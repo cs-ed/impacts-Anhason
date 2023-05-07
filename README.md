@@ -47,4 +47,4 @@ Describe how your plan will facilitate diversity/equity/inclusion and help broad
 Outcomes:
 1. Students not only learn the positive impacts of computing technology on society but also learn the negative impacts of it. If some of students decide to pursue their careers in the computuing technology, it is something important they need to consider throughout their careers. 
 2. Privacy, freedom of speech and intelletual property are important in the ethical, legal and security aspects. Students learn the importance of their behaviors when they are online. They should be able to demonstrate the ability to navigate the digital environments in a way that’s safe and responsible and to actively and respectfully engage.
-3. With the booming of AI systems such as ChatGPT, the positive side of it is obvious; however, students should be encouraged to explore the negative impacts it might bring to the society.
+3. With the booming of AI systems such as ChatGPT, the positive side of it is obvious; however, students should be encouraged to explore the negative impacts it might bring to the society. 
