@@ -17,15 +17,28 @@ Describe the learning objectives for the class that relate to social impacts. Co
 
 Learning Objectives:
 
-* Analyze Societal Impacts 
+* Analyze Societal Impacts: Students will examine the positive and negative impacts of computing technology on society related to ethical, legal and security issues
+* Apply appropriate behaviors: Students will demonstrate the ability to apply appropriate online behaviors related to privacy, freedom of speech and intellectual property
 
 ### Learning Activities
 
 Describe the learning activities and how they will be incorporated into the class. For example, will they include class discussion, written reports, homework, or exams? Will the activity be a one-time lesson or used multiple times in class?
 
+Learning Activities:
+
+1. Readings will be assigned on the weekly basis. The articles are selected online. Students will post their discussion on a online platform such as Slack or Discord. Students get credits by posting their thoughts and responding to one of their selected posts. 
+2. Research paper due at the end of the course. One research paper will be due at the end of the course. The idea of topics will be provided throughout the discussions in the course. For example, we will discuss the security of cryptocurrency in the course. One of the topics around the cryptocurrency is the FTX collapse. By doing research, students will learn about the background and history of the FTX and learn about its impacts on society. 
+
 ### Assessment
 
 Describe how you plan to assess the learning objectives described above.
+
+Assessments: 
+
+1. Students' posts will be evaluated. 
+2. Students' research papers will be evaluated at the end of the semester. 
+3. Students will present their research papers to their peers at the end of the semester. 
+4. Quizzes will be assigned from time to time (Not sure how it is done exactly. If there is a textbook for this course, the quizzes could be done in the form of multiple choices. 
 
 ### Outcomes
 
