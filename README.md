@@ -5,13 +5,19 @@ Describe your course including the name, description, and grade level. Broadly e
 
 Name: Computing Impacts on Society
 
-Description: 
+Description: In this course, students will discuss the societal impacts of computing technology. The course starts with the history of computers and Internet. It will focus on areas such as privacy, freedom of speech, intellectual property and the environment. Current issues that will be discussed include cryptocurrency and its fraud, computer virus, AI system and ChatGPT.
+
+Grade level: 11th and 12th graders. 
 
 ## Plan
 
 ### Learning Objectives
 
 Describe the learning objectives for the class that relate to social impacts. Consider using Bloom's Taxonomy to identify the types of cognitive and/or affective outcomes (and their associated verbs): https://bloomstaxonomy.net/
+
+Learning Objectives:
+
+* Analyze Societal Impacts 
 
 ### Learning Activities
 
