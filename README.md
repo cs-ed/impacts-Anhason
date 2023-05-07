@@ -38,8 +38,13 @@ Assessments:
 1. Students' posts will be evaluated. 
 2. Students' research papers will be evaluated at the end of the semester. 
 3. Students will present their research papers to their peers at the end of the semester. 
-4. Quizzes will be assigned from time to time (Not sure how it is done exactly. If there is a textbook for this course, the quizzes could be done in the form of multiple choices. 
+4. Quizzes will be assigned from time to time (I'm not sure about how it is done exactly. If there is a textbook for this course, the quizzes could be done in the form of multiple choices)
 
 ### Outcomes
 
 Describe how your plan will facilitate diversity/equity/inclusion and help broadening participation in computing. Also describe how the course plan will help long-term goals in addressing computing impacts on society.
+
+Outcomes:
+1. Students not only learn the positive impacts of computing technology on society but also learn the negative impacts of it. If some of students decide to pursue their careers in the computuing technology, it is something important they need to consider throughout their careers. 
+2. Privacy, freedom of speech and intelletual property are important in the ethical, legal and security aspects. Students learn the importance of their behaviors when they are online. They should be able to demonstrate the ability to navigate the digital environments in a way that’s safe and responsible and to actively and respectfully engage.
+3. With the booming of AI systems such as ChatGPT, the positive side of it is obvious; however, students should be encouraged to explore the negative impacts it might bring to the society.
